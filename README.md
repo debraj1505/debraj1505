@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Debraj Mondal</h1>
 <h3 align="center">An ardent and energetic B.Tech CSE student with specialization in AIML and IOT is exhilarated to explore the world of technology and it's innovation.The main ambition is to penetrate into the deep ocean of Artificial intelligence , explore it.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debraj1505" alt="debraj1505" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debraj1505"/></a> </p>
 
 
 
