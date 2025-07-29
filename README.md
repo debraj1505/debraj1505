@@ -1,5 +1,17 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Debraj+Mondal;Tech+Enthusiast+%F0%9F%94%A5;ML+%7C+AI+%7C+Data+Lover;Always+Learning+New+Things!" />
+</h1>
 
-<h1 align="center">Hi 👋, I'm Debraj Mondal</h1>
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+<p align="center">
+  <b>🔧 Tools | 📚 Learning | 🚀 Building the Future with Code</b>
+</p>
+
 <h3 align="center">An ardent and energetic B.Tech CSE student with specialization in AIML and IOT is exhilarated to explore the world of technology and it's innovation.The main ambition is to penetrate into the deep ocean of Artificial intelligence , explore it.</h3>
 
 
